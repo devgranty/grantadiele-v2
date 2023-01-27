@@ -1,0 +1,31 @@
+{
+  "name": "grantadiele-v2",
+  "version": "1.0.0",
+  "description": "Portfolio of Grant Adiele",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devgranty/grantadiele-v2.git"
+  },
+  "keywords": [
+    "Grant",
+    "Adiele",
+    "Portfolio",
+    "Web",
+    "Developer",
+    "Software",
+    "Engineer"
+  ],
+  "author": "Grant Adiele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devgranty/grantadiele-v2/issues"
+  },
+  "homepage": "https://github.com/devgranty/grantadiele-v2#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
