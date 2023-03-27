@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://devgranty.netlify.app"
+  to = "https://grantadiele.pro"
+  status = 301
+  force = true
