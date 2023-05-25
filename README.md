@@ -1,3 +1,3 @@
-# Devgrant - V2
+# grantadiele - V2
 
 Version 2 of my portfolio.
