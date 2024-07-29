@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -74,8 +73,3 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-=======
-# grantadiele - V2
-
-Version 2 of my portfolio.
->>>>>>> d7226d6d6ceb394a1eafef6b3911d449bf9ad269
