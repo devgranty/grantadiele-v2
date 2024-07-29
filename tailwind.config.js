@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+<<<<<<< HEAD
 export default {
   content: [
     "./components/**/*.{js,vue,ts}",
@@ -25,3 +26,16 @@ export default {
   plugins: [],
 }
 
+=======
+module.exports = {
+  content: ["./src/**/*.{html,js}"],
+  theme: {
+    extend: {
+      backgroundColor: {
+        'off-black': '#050505'
+      }
+    }
+  },
+  plugins: [],
+}
+>>>>>>> d7226d6d6ceb394a1eafef6b3911d449bf9ad269

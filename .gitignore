@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt dev/build outputs
 .output
 .data
@@ -21,3 +22,7 @@ logs
 .env
 .env.*
 !.env.example
+=======
+node_modules
+src
+>>>>>>> d7226d6d6ceb394a1eafef6b3911d449bf9ad269
