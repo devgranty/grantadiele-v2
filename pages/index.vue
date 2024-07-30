@@ -37,12 +37,16 @@
                 </div>
                 <div class="space-y-7">
                     <h6 class="subheader--about__animation text-neutral-600 text-xs uppercase">About</h6>
-                    <div>
+                    <div class="space-y-10">
                         <p class="text--about__animation text-neutral-500 tracking-tight">I'm Grant &ndash; a full-stack web developer based in Nigeria, focused on creating functional and intuitive interfaces and back-end systems that are fast, scalable and secure.</p>
-                        <a href="https://drive.google.com/file/d/194w9Dji784S-UzH_hKEuiVSWloJ67W74/view" target="_blank" class="text--about__animation group text-neutral-600 text-xs uppercase inline-flex items-center gap-x-2">
-                            <span class="lg:group-hover:text-purple-500 transition duration-300 ease-in-out">View curriculum vitae</span>
-                            <span class="material-symbols-rounded arrow__animation lg:group-hover:translate-x-3 lg:group-hover:text-purple-500 transition duration-1000 ease-out will-change-transform">arrow_forward</span>
+                        <div>
+                            <a href="https://drive.google.com/file/d/194w9Dji784S-UzH_hKEuiVSWloJ67W74/view" target="_blank" class="text--about__animation group text-neutral-600 text-xs uppercase font-mono font-medium inline-flex items-center gap-x-2">
+                            <span class="lg:group-hover:text-neutral-400 transition duration-300 ease-in-out">View curriculum vitae</span>
+                            <span class="arrow__animation">
+                                <span class="material-symbols-rounded lg:group-hover:translate-x-3 lg:group-hover:text-neutral-400 transition duration-1000 ease-out will-change-transform">arrow_forward</span>
+                            </span>
                         </a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -60,10 +64,14 @@
                     </h3>
                 </div>
             </div>
-            <a href="https://github.com/devgranty" target="_blank" class="project_title--animation group text-neutral-600 text-xs uppercase inline-flex items-center gap-x-2">
-                <span class="lg:group-hover:text-purple-500 transition duration-300 ease-in-out">See my github</span>
-                <span class="material-symbols-rounded arrow__animation lg:group-hover:translate-x-3 lg:group-hover:text-purple-500 transition duration-1000 ease-out will-change-transform">arrow_forward</span>
-            </a>
+            <div>
+                <a href="https://github.com/devgranty" target="_blank" class="project_title--animation group text-neutral-600 text-xs uppercase font-mono font-medium inline-flex items-center gap-x-2">
+                    <span class="lg:group-hover:text-neutral-400 transition duration-300 ease-in-out">See my github</span>
+                    <span class="arrow__animation">
+                        <span class="material-symbols-rounded lg:group-hover:translate-x-3 lg:group-hover:text-neutral-400 transition duration-1000 ease-out will-change-transform">arrow_forward</span>
+                    </span>
+                </a>
+            </div>
         </section>
 
         <div class="py-4 px-4 md:px-6 lg:px-8 mt-20 mx-auto max-w-5xl">
