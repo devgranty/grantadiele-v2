@@ -157,58 +157,63 @@
             </div>
         </div>
 
-        <footer class="px-4 md:px-6 lg:px-8 mt-20 mx-auto max-w-7xl space-y-10">
-            <div class="space-y-32">
+        <footer class="px-4 md:px-6 lg:px-8 mt-20 mb-5 mx-auto max-w-7xl">
+            <div class="space-y-28">
                 <div>
                     <hr class="line__animation w-full border-t-[2px] border-neutral-900 rounded-full">
-
                     <h1 class="py-5 text-neutral-500 text-3xl lg:text-6xl font-medium tracking-tight leading-7 lg:leading-[50px]">
                         <span class="footer--message__animation inline-block">Let's</span> <span class="footer--message__animation inline-block">talk</span> <span class="footer--message__animation inline-block">about</span> <span class="footer--message__animation inline-block">your</span> <span class="footer--message__animation inline-block">proposal,</span> <span class="footer--message__animation inline-block">project</span> <span class="footer--message__animation inline-block">or</span> <span class="footer--message__animation inline-block">work</span> <span class="footer--message__animation inline-block">together</span> <span class="footer--message__animation inline-block">on</span> <span class="footer--message__animation inline-block">something</span> <span class="footer--message__animation inline-block">&ndash;</span> <span class="footer--message__animation inline-block">get</span> <span class="footer--message__animation inline-block">in</span> <span class="footer--message__animation inline-block">touch.</span>
                     </h1>
                 </div>
 
-                <ul>
-                    <li>
-                        <h3 class="contact__animation">
-                            <a href="mailto:hello.devgranty@gmail.com" class="group inline-flex items-center gap-x-2 text-neutral-500 text-4xl lg:text-6xl font-medium tracking-tight">
-                                <span>Email</span>
-                                <span class="material-symbols-rounded text-4xl lg:text-6xl transition duration-500 ease-out lg:will-change-transform lg:scale-90 lg:opacity-0 lg:-rotate-12 lg:-translate-x-3 group-hover:scale-100  group-hover:opacity-100 group-hover:rotate-0 group-hover:translate-x-0">open_in_new</span>
-                            </a>
-                        </h3>
-                    </li>
-                    <li>
-                        <h3 class="contact__animation">
-                            <a href="https://twitter.com/devgranty" target="_blank" class="group inline-flex items-center gap-x-2 text-neutral-500 text-4xl lg:text-6xl font-medium tracking-tight">
-                                <span>X/Twitter</span>
-                                <span class="material-symbols-rounded text-4xl lg:text-6xl transition duration-500 ease-out lg:will-change-transform lg:scale-90 lg:opacity-0 lg:-rotate-12 lg:-translate-x-3 group-hover:scale-100  group-hover:opacity-100 group-hover:rotate-0 group-hover:translate-x-0">open_in_new</span>
-                            </a>
-                        </h3>
-                    </li>
-                    <li>
-                        <h3 class="contact__animation">
-                            <a href="https://www.linkedin.com/in/grant-adiele-6533741b3/" target="_blank" class="group inline-flex items-center gap-x-2 text-neutral-500 text-4xl lg:text-6xl font-medium tracking-tight">
-                                <span>LinkedIn</span>
-                                <span class="material-symbols-rounded text-4xl lg:text-6xl transition duration-500 ease-out lg:will-change-transform lg:scale-90 lg:opacity-0 lg:-rotate-12 lg:-translate-x-3 group-hover:scale-100  group-hover:opacity-100 group-hover:rotate-0 group-hover:translate-x-0">open_in_new</span>
-                            </a>
-                        </h3>
-                    </li>
-                    <li>
-                        <h3 class="contact__animation">
-                            <a href="https://github.com/devgranty" target="_blank" class="group inline-flex items-center gap-x-2 text-neutral-500 text-4xl lg:text-6xl font-medium tracking-tight">
-                                <span>Github</span>
-                                <span class="material-symbols-rounded text-4xl lg:text-6xl transition duration-500 ease-out lg:will-change-transform lg:scale-90 lg:opacity-0 lg:-rotate-12 lg:-translate-x-3 group-hover:scale-100  group-hover:opacity-100 group-hover:rotate-0 group-hover:translate-x-0">open_in_new</span>
-                            </a>
-                        </h3>
-                    </li>
-                    <li>
-                        <h3 class="contact__animation">
-                            <a href="https://www.instagram.com/devgranty/" target="_blank" class="group inline-flex items-center gap-x-2 text-neutral-500 text-4xl lg:text-6xl font-medium tracking-tight">
-                                <span>Instagram</span>
-                                <span class="material-symbols-rounded text-4xl lg:text-6xl transition duration-500 ease-out lg:will-change-transform lg:scale-90 lg:opacity-0 lg:-rotate-12 lg:-translate-x-3 group-hover:scale-100  group-hover:opacity-100 group-hover:rotate-0 group-hover:translate-x-0">open_in_new</span>
-                            </a>
-                        </h3>
-                    </li>
-                </ul>
+                <div>
+                    <hr class="line__animation w-full border-t-[2px] border-neutral-900 rounded-full">
+                    <ul class="py-5 mx-auto max-w-5xl">
+                        <li>
+                            <h3 class="contact__animation">
+                                <a href="mailto:hello.devgranty@gmail.com" class="group inline-flex items-center gap-x-2 text-neutral-500 text-4xl lg:text-6xl font-medium tracking-tight">
+                                    <span>Email</span>
+                                    <span class="material-symbols-rounded text-4xl lg:text-6xl transition duration-500 ease-out lg:will-change-transform lg:scale-90 lg:opacity-0 lg:-rotate-12 lg:-translate-x-3 group-hover:scale-100  group-hover:opacity-100 group-hover:rotate-0 group-hover:translate-x-0">open_in_new</span>
+                                </a>
+                            </h3>
+                        </li>
+                        <li>
+                            <h3 class="contact__animation">
+                                <a href="https://twitter.com/devgranty" target="_blank" class="group inline-flex items-center gap-x-2 text-neutral-500 text-4xl lg:text-6xl font-medium tracking-tight">
+                                    <span>X/Twitter</span>
+                                    <span class="material-symbols-rounded text-4xl lg:text-6xl transition duration-500 ease-out lg:will-change-transform lg:scale-90 lg:opacity-0 lg:-rotate-12 lg:-translate-x-3 group-hover:scale-100  group-hover:opacity-100 group-hover:rotate-0 group-hover:translate-x-0">open_in_new</span>
+                                </a>
+                            </h3>
+                        </li>
+                        <li>
+                            <h3 class="contact__animation">
+                                <a href="https://www.linkedin.com/in/grant-adiele-6533741b3/" target="_blank" class="group inline-flex items-center gap-x-2 text-neutral-500 text-4xl lg:text-6xl font-medium tracking-tight">
+                                    <span>LinkedIn</span>
+                                    <span class="material-symbols-rounded text-4xl lg:text-6xl transition duration-500 ease-out lg:will-change-transform lg:scale-90 lg:opacity-0 lg:-rotate-12 lg:-translate-x-3 group-hover:scale-100  group-hover:opacity-100 group-hover:rotate-0 group-hover:translate-x-0">open_in_new</span>
+                                </a>
+                            </h3>
+                        </li>
+                        <li>
+                            <h3 class="contact__animation">
+                                <a href="https://github.com/devgranty" target="_blank" class="group inline-flex items-center gap-x-2 text-neutral-500 text-4xl lg:text-6xl font-medium tracking-tight">
+                                    <span>Github</span>
+                                    <span class="material-symbols-rounded text-4xl lg:text-6xl transition duration-500 ease-out lg:will-change-transform lg:scale-90 lg:opacity-0 lg:-rotate-12 lg:-translate-x-3 group-hover:scale-100  group-hover:opacity-100 group-hover:rotate-0 group-hover:translate-x-0">open_in_new</span>
+                                </a>
+                            </h3>
+                        </li>
+                        <li>
+                            <h3 class="contact__animation">
+                                <a href="https://www.instagram.com/devgranty/" target="_blank" class="group inline-flex items-center gap-x-2 text-neutral-500 text-4xl lg:text-6xl font-medium tracking-tight">
+                                    <span>Instagram</span>
+                                    <span class="material-symbols-rounded text-4xl lg:text-6xl transition duration-500 ease-out lg:will-change-transform lg:scale-90 lg:opacity-0 lg:-rotate-12 lg:-translate-x-3 group-hover:scale-100  group-hover:opacity-100 group-hover:rotate-0 group-hover:translate-x-0">open_in_new</span>
+                                </a>
+                            </h3>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="mt-5 text-right">
+                <p class="text-xs text-neutral-600 uppercase font-mono font-medium">Copyright Grant {{ new Date().getFullYear() }}</p>
             </div>
         </footer>
     </main>
@@ -265,7 +270,7 @@ const songState = ref("Currently listening to");
 const songURL = ref(null);
 const songName = ref("Loading...");
 const songArtist = ref("Loading...");
-const songCover = ref("/_nuxt/assets/img/default-cover.svg");
+const songCover = ref("/img/default-cover.svg");
 
 const getAuthToken = async () => {
     const client_id =  "5df897a3a6e044d4b89069aefdab67fe";
